@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyChangedEventsDemo", "PropertyChangedEventsDemo\PropertyChangedEventsDemo.csproj", "{54768FED-AFCF-4F24-87F2-DD32C29A01AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54768FED-AFCF-4F24-87F2-DD32C29A01AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54768FED-AFCF-4F24-87F2-DD32C29A01AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54768FED-AFCF-4F24-87F2-DD32C29A01AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54768FED-AFCF-4F24-87F2-DD32C29A01AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50DBFF1D-7B97-4CE5-9DF2-77D2EB7DEA7D}
+	EndGlobalSection
+EndGlobal
